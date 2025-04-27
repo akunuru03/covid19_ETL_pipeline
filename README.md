@@ -9,7 +9,6 @@ You can clone this repo, run the scripts, and instantly reproduce the entire wor
 
 ```txt
 covid19_ETL_pipeline/
-├── .gitignore
 ├── README.md
 ├── scripts/
 │   ├── covid_rawdata_fetching.ipynb   # Extract step
