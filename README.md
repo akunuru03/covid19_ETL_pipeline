@@ -92,8 +92,6 @@ covid19_ETL_pipeline/
   - Creates `database/` folder  
   - Loads cleaned CSV into a SQLite table `covid_data` in `covid19.db`
 
-- **.gitignore**  
-  - Excludes `data/raw/`, `data/processed/`, `database/` and large `.csv`/`.db` files so your repo stays lean
 
 ---
 
